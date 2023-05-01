@@ -130,7 +130,7 @@ a, button{
 }
 .image-border {
     background-color: #f1f3f6;
-    border-radius: 2.25rem;
+    border-radius: 1.25rem;
     box-shadow: -3px 3px 3px #dadada, 3px -3px 3px #fafafa;
     padding: 5px;
 }
